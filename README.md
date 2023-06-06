@@ -4,7 +4,7 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de soluções inovado
 
 Projetos Destacados 🌟
 
-    Revista World (https://www.revistaworld.com.br) - Breve descrição do projeto e seu papel nele.
+    Revista World (https://www.revistaworld.com.br) - Site completo da revista world de sorriso-mt.
     ...
 
 Contato 📞
