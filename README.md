@@ -1,7 +1,6 @@
 Olá, eu sou Francisco Junior 👋
 
-Sou um desenvolvedor apaixonado por tecnologia e criação de soluções inovadoras. Tenho experiência em desenvolvimento web, utilizando diversas tecnologias e frameworks. Estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências do setor. 💻🚀
-Habilidades Técnicas 🛠️
+Sou um desenvolvedor apaixonado por tecnologia e criação de soluções inovadoras. Tenho experiência em desenvolvimento web, utilizando diversas tecnologias e frameworks. Estou constantemente aprendendo e me atualizando para acompanhar as últimas tendências do setor. 💻
 
 Projetos Destacados 🌟
 
